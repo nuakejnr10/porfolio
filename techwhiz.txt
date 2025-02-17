@@ -1,0 +1,87 @@
+The Fight against the impact of climate change
+by
+Team members:
+NOUAKE TSEKPO               
+KORKOR NDEDE KOJO   
+ABDUL KUDUS CHENTIWUNI ABUBAKAR 
+VICTOR EUGENE 
+Osman Inusah
+REBEKAH ADJAOH MENSAH
+
+
+Techwhiz
+
+The Fight against the impact of climate change
+Majority of people(Especially Africa) lack understanding of their individual contributions to climate change, hindering effective collective action.
+Why it matters: Collective climate action is crucial for mitigating the severe and irreversible impacts of climate change, ensuring a sustainable future for all.
+GCGO: 13. Climate Change Action
+The Problem
+
+Climate change is one of the greatest crises of our time, driving extreme weather, threatening food security, and impacting global health. If temperatures rise by 1.5°C by 2030, the consequences could be catastrophic, including $100 billion in annual economic losses and 250,000 additional deaths yearly by 2050. However, solutions like solar-powered irrigation, climate apps, and resilient crops offer hope for a sustainable future.
+Team Statement
+
+User persona
+Sarah (28)
+Worried: Concerned about climate change but feels overwhelmed.
+Recycles: Makes basic efforts but unsure of impact.
+Goal: Wants to understand her impact and take meaningful action.
+
+chart illustrates the annual increase in methane (CH4) emissions from 1985 to 2024. It highlights that the highest methane emissions occurred between 2020 and 2025, with 2023 recording the peak level of 18 ppb, making it the year with the highest methane emissions globally.in 2024, methane decreased by 8 ppb
+source:https://gml.noaa.gov/webdata/ccgg/trends/ch4_gr_gl.png
+Our Findings #1
+
+The graphs show the global average concentration of carbon dioxide in the atmosphere over time. The concentration has been increasing steadily since 1980. This is due to human activities, such as the burning of fossil fuels.
+
+ The Global Carbon Budget
+The global carbon budget is the amount of carbon dioxide (CO2) that can be emitted into the atmosphere while still limiting global warming to a certain level. The Intergovernmental Panel on Climate Change (IPCC) has set a target of limiting global warming to 1.5°C above pre-industrial levels to avoid the most severe impacts of climate change.
+To achieve this target, the remaining carbon budget is rapidly diminishing.
+As of 2023, the remaining carbon budget for a 50% chance of limiting warming to 1.5°C is estimated to be around 250 gigatons of CO2. This means that global emissions need to be drastically reduced in the coming years to stay within this budget.
+Source: IPCC Sixth Assessment Report (AR6)
+This information emphasizes the urgency of the climate crisis and the need for immediate and significant action to reduce greenhouse gas emissions.
+
+proposed solution
+
+Why this solution?
+Accessible: Easy to use on smartphones.
+Personalized: Tailored advice for each user.
+Engaging: Gamification and community features.
+
+“Climate Change Advisory App (Climworld)”
+
+Take a look at our wireframe
+
+Simple signing up
+
+Stay updated
+
+Keep up with your tracks
+Stay informed.
+
+User Needs and Pain Points
+
+Need 1: Clarity and Simplicity
+Challenge: Users expressed a need for clear and concise language in the app's content, especially when presenting complex climate-related information.
+Pain Point: Jargon and technical terms can be overwhelming and hinder user understanding.
+Need 2: Actionable Recommendations
+Challenge: Users desired more specific and actionable recommendations tailored to their individual situations.
+Pain Point: Generic advice may not be relevant or effective for everyone, leading to frustration and a lack of engagement.
+
+Clarity: Simplify language and use visuals.
+Action: Provide specific, personalized actions.
+Motivation: Gamify and build community.
+User Feedback & Next Steps
+
+
+Pilot Program: Launch a pilot program in a targeted community to gather real-world usage data and refine the app based on user feedback.
+Data Integration: Integrate the app with wearable devices and smart home devices to provide more comprehensive and personalized carbon footprint tracking.
+Next Steps with Funding
+
+The WHY of the climate change advisory app is to empower individuals to take meaningful action on climate change and contribute to a sustainable future for all.
+It addresses the problem of people feeling overwhelmed and unsure about their individual impact on climate change by providing:
+Personalized information: Tailored advice and insights based on user profiles.
+Actionable steps: Clear and specific recommendations for reducing carbon footprint.
+Community engagement: Opportunities to connect with others and participate in collective action.
+By empowering individuals, the app aims to foster a sense of agency and collective responsibility in addressing the climate crisis.
+THE WHY
+
+Thank You
